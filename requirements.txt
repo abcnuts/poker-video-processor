@@ -1,0 +1,9 @@
+yt-dlp==2024.10.7
+openai==1.54.3
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+python-docx==1.1.0
+markdown==3.5.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+assemblyai==0.17.0
